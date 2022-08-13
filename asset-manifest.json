@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Redux-Accordian/static/css/main.8e9efb38.css",
+    "main.js": "/Redux-Accordian/static/js/main.3cf28644.js",
+    "static/js/787.d47acf18.chunk.js": "/Redux-Accordian/static/js/787.d47acf18.chunk.js",
+    "index.html": "/Redux-Accordian/index.html",
+    "main.8e9efb38.css.map": "/Redux-Accordian/static/css/main.8e9efb38.css.map",
+    "main.3cf28644.js.map": "/Redux-Accordian/static/js/main.3cf28644.js.map",
+    "787.d47acf18.chunk.js.map": "/Redux-Accordian/static/js/787.d47acf18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e9efb38.css",
+    "static/js/main.3cf28644.js"
+  ]
+}

@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title": "What is Redux?",
+        "info": "Redux is a predictable state container for JavaScript apps."
+        
+    },
+    {
+        "id": 2,
+        "title": "What is an action in Redux?",
+        "info": "Actions are a plain JavaScript object that contains information. Actions are the only source of information for the store. Actions have a type field that tells what kind of action to perform and all other fields contain information or data."
+        
+    },
+    {
+        "id": 3,
+        "title": "What is a Reducer in Redux?",
+        "info": "A reducer is a pure function that takes an action and the previous state of the application and returns the new state. The action describes what happened and it is the reducer's job to return the new state based on that action."
+    },
+    {
+        "id": 4,
+        "title": "What is a store in Redux?",
+        "info": "A store is an immutable object tree in Redux. A store is a state container which holds the application's state. Redux can have only a single store in your application."
+       
+    },
+    {
+        "id": 5,
+        "title": "what is connect in redux?",
+        "info": "The connect() function connects a React component to a Redux store. It provides its connected component with the pieces of the data it needs from the store, and the functions it can use to dispatch actions to the store."
+        
+    }
+]
